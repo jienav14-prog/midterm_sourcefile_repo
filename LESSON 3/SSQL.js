@@ -1,3 +1,7 @@
+// LESSON 3: SSQL
+// This program demonstrates Stack, Queue, Priority Queue, and Linked List.
+
+
 'use strict';
 
 console.log('CAMPUS IT SUPPORT REQUEST MANAGER');
