@@ -1,3 +1,6 @@
+// LESSON 2: ARRAY
+// This program demonstrates array operations and student score analysis.
+
 'use strict';
 
 console.log('STUDENT SCORE ARRAY ANALYZER');
