@@ -1,3 +1,6 @@
+// LESSON 1: STUDENT SCORE
+// This program analyzes student scores, grades, and passing status.
+
 let scores = [85, 72, 91, 64, 78];
 let total = 0;
 let passed = 0;
